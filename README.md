@@ -1,8 +1,8 @@
 # Manual-Testing-Project
 
-| Syntax      | Description |
+| Project Name    | Tools Used |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Login(vwo.com)      | Excel,Trello      |
+| Signup(Facebook)   | Excel,Trello        |
 
 
